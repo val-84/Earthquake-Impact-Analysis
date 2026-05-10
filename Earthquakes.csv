@@ -1,0 +1,6 @@
+﻿idEarthquake,country,region,magnitude(ML),focal depth(km),year,lat,lon
+1,USA,"California, Los Angeles",4.2,9,2001,34.059,-118.387
+2,USA,"California, Northridge",6.4,18,1994,34.213,-118.537
+3,USA,"California, Bakersfield",5.8,16,1952,35.333,-118.917
+4,USA,"California, Tehachapi",5.18,6,1952,35.1,-118.48
+5,USA,"California, Santa Cruz",7.2,18,1989,37.036,-121.883
