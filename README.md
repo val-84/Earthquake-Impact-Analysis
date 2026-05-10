@@ -1,3 +1,2 @@
 # Earthquake-Impact-Analysis
-
 # This project analyses the spatial impact of multiple earthquake scenarios across California (sample of 5 earthquakes for this project) using GIS and network analysis techniques. The aim was to estimate affected populations and buildings within earthquake intensity buffer zones, assess spatial risk patterns, and generate evacuation routes from impacted areas using road network analysis. The project combines geospatial data, spatial joins, and routing algorithms to support disaster risk assessment and emergency planning.
